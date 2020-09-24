@@ -1,4 +1,5 @@
 node_modules
+#why dont working
 .env.development
 .env.production
   
